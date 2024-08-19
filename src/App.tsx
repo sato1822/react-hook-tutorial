@@ -1,5 +1,6 @@
 import UseStateSection from "./hooks/Index";
 import UseContext from "./hooks/useContext";
+import UseRef from "./hooks/useRef";
 
 function App() {
   return (
@@ -7,6 +8,8 @@ function App() {
       <UseStateSection />
       <hr />
       <UseContext />
+      <hr />
+      <UseRef />
     </div>
   );
 }
