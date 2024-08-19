@@ -14,6 +14,7 @@ React Hook Tutorial
 - **useState**: 値の監視
 - **useEffect**: 副作用の処理（DOMの書き換え、変数代入、API通信などUI構築以外の処理）を関数コンポーネントで扱えます。
 - **useContext**: ユーザー情報を他の画面でも使う際に利用することが多い。または、Reduxを使う
+- **useRef**: 「reference」　= 参照するという意味でDOM要素の参照を簡単にできたりする
 
 ## インストール
 1. リポジトリのクローン🚀  
