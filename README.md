@@ -10,8 +10,8 @@ React Hook Tutorial
 「react hooks」の学習
 
 ## 特徴
-- ** useState **: 値の監視
-- ** useEffect **: 副作用の処理（DOMの書き換え、変数代入、API通信などUI構築以外の処理）を関数コンポーネントで扱えます。
+- **useState**: 値の監視
+- **useEffect**: 副作用の処理（DOMの書き換え、変数代入、API通信などUI構築以外の処理）を関数コンポーネントで扱えます。
 
 ## インストール
 1. リポジトリのクローン🚀  
